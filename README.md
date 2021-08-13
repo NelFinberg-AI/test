@@ -2,6 +2,6 @@
 
 This is a simple readme file.
 
-Add additional text. But how much additional text do we include?
+Edits to the local README file.
 
 Adding some additional content to README file.
